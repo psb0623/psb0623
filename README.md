@@ -1,19 +1,17 @@
 ### Hi there 👋
 
-<!--
-**psb0623/psb0623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is Subeen Park. I'm majoring in Computer Science and interested in **problem solving** and **visualization** as a hobby.
 
-Here are some ideas to get you started:
+### Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 | [![](http://st.codeforces.com/s/37194/images/codeforces-logo-with-telegram.png)](http://codeforces.com) | [![](https://d2gd6pc034wcta.cloudfront.net/images/logo.png)](https://www.acmicpc.net) |
 |:-:|:-:|
 | [![https://cf.leed.at?id=psb0623](https://cf.leed.at?id=psb0623)](https://codeforces.com/profile/psb0623) | [![http://mazassumnida.wtf/api/generate_badge?boj=psb0623](http://mazassumnida.wtf/api/generate_badge?boj=psb0623)](https://solved.ac/psb0623) |
+
+- More details on [here]()
+
+### Visualization Project
+
+- [Patternize]() (2018 Korea Olympiad in Informatics)
+- [Liquiboard Demo]() (2019 Samsung Humantech Paper Award)
+- Etc...

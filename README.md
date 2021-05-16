@@ -12,6 +12,6 @@ Hello, my name is Subeen Park. I'm majoring in **Computer Science** and interest
 
 ### Visualization Project
 
-- [PatternPuzzle]() (2018 Korea Olympiad in Informatics)
+- [PatternPuzzle](https://github.com/psb0623/PatternPuzzle) (2018 Korea Olympiad in Informatics)
 - [Liquiboard Demo]() (2019 Samsung Humantech Paper Award)
 - Etc...

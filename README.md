@@ -8,7 +8,7 @@ Hello, my name is Subeen Park. I'm majoring in Computer Science and interested i
 |:-:|:-:|
 | [![https://cf.leed.at?id=psb0623](https://cf.leed.at?id=psb0623)](https://codeforces.com/profile/psb0623) | [![http://mazassumnida.wtf/api/generate_badge?boj=psb0623](http://mazassumnida.wtf/api/generate_badge?boj=psb0623)](https://solved.ac/psb0623) |
 
-- More details on [here]()
+- More details on [here](https://github.com/psb0623/Problem-Solving)
 
 ### Visualization Project
 

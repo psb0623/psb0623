@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-| [![](https://d2gd6pc034wcta.cloudfront.net/images/logo.png)](https://www.acmicpc.net) | [![](http://st.codeforces.com/s/37194/images/codeforces-logo-with-telegram.png)](http://codeforces.com) |
+| [![](http://st.codeforces.com/s/37194/images/codeforces-logo-with-telegram.png)](http://codeforces.com) | [![](https://d2gd6pc034wcta.cloudfront.net/images/logo.png)](https://www.acmicpc.net) |
 |:-:|:-:|
-| [![http://mazassumnida.wtf/api/generate_badge?boj=psb0623](http://mazassumnida.wtf/api/generate_badge?boj=psb0623)](https://solved.ac/psb0623) | [![https://cf.leed.at?id=psb0623](https://cf.leed.at?id=psb0623)](https://codeforces.com/profile/psb0623) |
+| [![https://cf.leed.at?id=psb0623](https://cf.leed.at?id=psb0623)](https://codeforces.com/profile/psb0623) | [![http://mazassumnida.wtf/api/generate_badge?boj=psb0623](http://mazassumnida.wtf/api/generate_badge?boj=psb0623)](https://solved.ac/psb0623) |

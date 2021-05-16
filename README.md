@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- [psb0623@BOJ](https://www.acmicpc.net/user/psb0623)
+
+[![http://mazassumnida.wtf/api/generate_badge?boj=psb0623](http://mazassumnida.wtf/api/generate_badge?boj=psb0623)](https://solved.ac/psb0623) (by. [mazassumnida](https://github.com/mazassumnida/mazassumnida))
+
+- [psb0623@Codeforces](http://codeforces.com/profile/psb0623)
+
+[![https://cf.leed.at?id=psb0623](https://cf.leed.at?id=psb0623)](https://codeforces.com/profile/psb0623) (by. [mazacofo](https://github.com/mazassumnida/mazacofo))

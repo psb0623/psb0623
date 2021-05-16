@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, my name is Subeen Park. I'm majoring in Computer Science and interested in **problem solving** and **visualization** as a hobby.
+Hello, my name is Subeen Park. I'm majoring in **Computer Science** and interested in **Problem Solving** and **Visualization** as a hobby.
 
 ### Problem Solving
 
